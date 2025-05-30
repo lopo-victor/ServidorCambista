@@ -2,12 +2,17 @@ import xmlrpc.client
 
 moedas_essenciais = {
     "BRL": "Real Brasileiro",
+    "BRLPTAX": "Real Brasileiro Cotação PTAX",
+    "BRLT": "Real Brasileiro Turismo",
     "USD": "Dólar Americano",
     "CAD": "Dólar Canadense",
     "EUR": "Euro",
     "GBP": "Libra Esterlina",
     "BTC": "Bitcoin",
-    "ETH": "Ethereum"
+    "ETH": "Ethereum",
+    "XRP": "XRP",
+    "SOL": "Solana",
+    "BNB": "Binance Coin"
 }
 
 def exibir_moedas_disponiveis():
