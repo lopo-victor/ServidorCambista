@@ -1,6 +1,6 @@
 # Conversor de Moedas usando XML-RPC
 
-Este é um projeto simples para cambio entre moedas que utiliza o protocolo XML-RPC para comunicação entre cliente e servidor. o sistema realiza consultas em tempo real à API de cotações da [AwesomeAPI](https://docs.awesomeapi.com.br/api-de-moedas) para obter as taxas de câmbio.
+Este é um projeto simples para cambio entre moedas que utiliza o protocolo XML-RPC para comunicação entre cliente e servidor. O sistema realiza consultas em tempo real à API de cotações da [AwesomeAPI](https://docs.awesomeapi.com.br/api-de-moedas) para obter as taxas de câmbio.
 
 ## 📦 Funcionamento
 
@@ -46,6 +46,6 @@ Este projeto foi desenvolvido como um caso de estudo acadêmico, com o objetivo 
 
 * Conceitos de serialização, transporte HTTP e robustez na comunicação entre processos.
 
-* O projeto agregou significativamente ao aprendizado técnico, permitindo a aplicação de conceitos teóricos em um cenário funcional e realista.
+* O projeto agregou significativamente ao aprendizado técnico, permitindo a aplicação de conceitos teóricos em um cenário funcional.
 
 
